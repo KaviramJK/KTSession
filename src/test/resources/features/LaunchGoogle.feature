@@ -1,4 +1,4 @@
-
+@google
   Feature: Launch google and search text
       Scenario Outline: : test
       Given user launches the google "https://www.google.com/"
